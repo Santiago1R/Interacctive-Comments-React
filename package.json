@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Santiago1R/Interacctive-Comments-React.git",
+
   "name": "app-comments",
   "private": true,
   "version": "0.0.0",
@@ -25,5 +25,6 @@
     "eslint-plugin-react-refresh": "^0.4.1",
     "gh-pages": "^5.0.0",
     "vite": "^4.4.0"
-  }
+  },
+  "homepage": "https://github.com/Santiago1R/Interacctive-Comments-React.git"
 }
