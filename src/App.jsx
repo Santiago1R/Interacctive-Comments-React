@@ -1,6 +1,6 @@
 import { useState } from "react";
 import CardComment from "./components/CardComment";
-import { comentarios } from "./components/data";
+import { comentarios } from "./components/Data";
 import { TextArea } from "./components/TextArea";
 
 function App() {
